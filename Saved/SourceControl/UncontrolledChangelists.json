@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/W_Card.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/W_CardHand.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/W_CardHUD.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/BPI_AddCard.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/S_CardInfo.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/DT_Cards.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/BPFL_Cards.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/BP_CardController.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/BP_CardGameGameMode.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/BP_DragDrop.uasset",
+				"C:/Users/Bartek/Documents/Unreal Projects/Deckbuilder/Content/CardUi/BPI_ChangeCardLayout.uasset"
+			]
+		}
+	]
+}
