@@ -1,35 +1,0 @@
-[1436:18556:0405/185952.169:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1436:17784:0405/185952.485:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/185952.529:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[7620:2468:0405/185952.599:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:18556:0405/185952.668:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1436:10084:0405/185957.489:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/185957.616:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:5164:0405/190002.532:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\bartl\OneDrive\Dokumenty\GitHub\Deckbuilder\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\bartl\OneDrive\Dokumenty\GitHub\Deckbuilder\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1436:5164:0405/190002.539:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\bartl\OneDrive\Dokumenty\GitHub\Deckbuilder\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\bartl\OneDrive\Dokumenty\GitHub\Deckbuilder\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1436:5164:0405/190002.542:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\bartl\OneDrive\Dokumenty\GitHub\Deckbuilder\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\bartl\OneDrive\Dokumenty\GitHub\Deckbuilder\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1436:5164:0405/190002.545:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\bartl\OneDrive\Dokumenty\GitHub\Deckbuilder\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\bartl\OneDrive\Dokumenty\GitHub\Deckbuilder\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1436:17784:0405/190003.523:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1436:17784:0405/190003.527:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17072:23556:0405/190003.566:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8EA7FD12D28BDBA9BAECBBF1733FF500 will be ignored
-[1436:10084:0405/190007.495:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/190007.629:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/190027.500:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/190027.642:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/191917.766:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/191917.769:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/191922.771:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/191922.791:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/191932.777:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/191932.812:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/191952.783:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/191952.837:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/201917.774:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/201917.777:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/201922.785:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/201922.804:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/201932.792:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/201932.820:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:10084:0405/201952.801:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[7620:2468:0405/201952.850:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[1436:18556:0405/201953.810:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
